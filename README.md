@@ -1,2 +1,2 @@
-# my first init
-hello!
+# My first init
+Hello!
